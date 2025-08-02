@@ -1,6 +1,6 @@
 # Movie_Review_RNN
 
-LIVE : 
+LIVE : http://localhost:8504
 
 ## Objective
 
